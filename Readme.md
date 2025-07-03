@@ -65,3 +65,21 @@ Erros comuns:
 <br>
 
 ![alt text](./readmeImages/lsp.png)
+
+## ISP - Interface Segregation Principle
+
+<br>
+
+"O ISP afirma que os clientes não devem ser forçados a depender de métodos que não utilizam.As interfaces devem ser pequenas e focadas em um conjunto específico de métodos."
+
+<br>
+
+![alt text](./readmeImages/isp.png)
+![alt text](./readmeImages/isp_solucao.png)
+![alt text](./readmeImages/isp_resolucao.png)
+
+### Interface de Serviço de Checkout
+
+![alt text](./readmeImages/checkout.png)
+![alt text](./readmeImages/segregacao.png)
+![alt text](./readmeImages/segregacaoComponentes.png)
