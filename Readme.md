@@ -83,3 +83,19 @@ Erros comuns:
 ![alt text](./readmeImages/checkout.png)
 ![alt text](./readmeImages/segregacao.png)
 ![alt text](./readmeImages/segregacaoComponentes.png)
+
+## ISP - Dependency Inversion Principle
+
+<br>
+
+"O DIP determina que as classes de alto nível não devem depender de classes de baixo nível. Em vez disso, ambas devem depender de abstrações. Isso permite que o código seja mais flexível e fácil de testar."
+
+<br>
+
+![alt text](./readmeImages/dip.png)
+![alt text](./readmeImages/dip_solucao.png)
+![alt text](./readmeImages/dip_solucao2.png)
+
+### Dependency Inversion vs Dependency Injection
+
+![alt text](./readmeImages/dip_vs_di.png)
