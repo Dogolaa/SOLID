@@ -50,3 +50,7 @@ Erros comuns:
 ### SRP: Atores e Stakeholders
 
 ![alt text](/readmeImages/atoresStakeholders.png)
+
+## OCP - Open-Closed Principle
+
+"Basicamente diz que um componente/classe deve estar aberta para extensão, mas fechado para modificação, ou seja, toda vez que você tem algo, tem-se que cria-lo de uma maneira que ele seja extensivo, não se da manutenção no componente principal e sim nos componentes que o formam."
