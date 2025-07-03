@@ -54,3 +54,14 @@ Erros comuns:
 ## OCP - Open-Closed Principle
 
 "Basicamente diz que um componente/classe deve estar aberta para extensão, mas fechado para modificação, ou seja, toda vez que você tem algo, tem-se que cria-lo de uma maneira que ele seja extensivo, não se da manutenção no componente principal e sim nos componentes que o formam."
+
+## LSP - Liskov Substitution Principle
+
+"Princípio que estabelece que objetos de uma classe base devem ser substituíveis por objetos de suas classes derivadas sem alterar o comportamento do programa"
+
+- Garante que subclasses mantenham o comportamento esperado da classe pai, presenvando invariantes e respeitando os contratos de método.
+- Promove design de software mais robusto, facilitando extensibilidade e matendo a consistência comportamental entre classes relacionadas.
+
+<br>
+
+![alt text](./readmeImages/lsp.png)
